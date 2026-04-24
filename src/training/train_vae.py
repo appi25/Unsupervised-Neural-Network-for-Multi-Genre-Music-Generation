@@ -1,11 +1,6 @@
 """Task 2: VAE Training with ELBO objective (Algorithm 2).
 
 L_VAE = L_recon + beta * D_KL(q_phi(z|X) || p(z))
-
-Historical training log (20 epochs, beta=0.1):
-    Epoch [1/20], Avg Loss: 3990.3561
-    Epoch [10/20], Avg Loss: 2879.1482
-    Epoch [20/20], Avg Loss: 2515.5533
 """
 import torch
 import torch.nn.functional as F
