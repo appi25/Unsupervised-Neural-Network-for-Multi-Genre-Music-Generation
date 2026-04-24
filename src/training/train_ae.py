@@ -2,12 +2,6 @@
 
 Loss: L_AE = sum_t ||x_t - x_hat_t||^2
 
-Historical training log (5 epochs):
-    Epoch [1/5], Loss: 0.1243
-    Epoch [2/5], Loss: 0.1123
-    Epoch [3/5], Loss: 0.1124
-    Epoch [4/5], Loss: 0.1124
-    Epoch [5/5], Loss: 0.1123
 """
 import torch
 import torch.nn as nn
