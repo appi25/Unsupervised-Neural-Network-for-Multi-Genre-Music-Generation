@@ -3,11 +3,6 @@
 L_TR = -sum_t log p_theta(x_t | x_<t)
 Perplexity = exp(L_TR / T)
 
-Historical training log (20 epochs, 21,005 samples):
-    Epoch 1/20, Loss: 0.7641
-    Epoch 10/20, Loss: 0.5712
-    Epoch 20/20, Loss: 0.4967
-    Final Perplexity: 1.4093
 """
 import torch
 import torch.nn.functional as F
