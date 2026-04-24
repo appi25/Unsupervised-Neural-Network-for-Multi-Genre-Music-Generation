@@ -1,7 +1,9 @@
 # 🎵 Unsupervised Neural Network for Multi-Genre Music Generation
 
 **Course:** CSE425/EEE474 — Neural Networks (Spring 2026)  
-**Authors:** Mohammed Asifur Rahman
+**Author:** Mohammed Asifur Rahman
+**ID:** 22301445
+
 
 ---
 
